@@ -86,4 +86,4 @@ According to Plutarch, Porcia said to Brutus:
 * Image courtesy [By sr:Public:PublicDomain - sr:wiki]
 
 [Wikipedia page]: https://en.wikipedia.org/wiki/Porcia_(wife_of_Brutus)
-[By sr:Public:PublicDomain - sr:wiki]: https://commons.wikimedia.org/w/index.php?curid=3090675
+[By sr:Public:PublicDomain - sr:wiki]: https://commons.wikimedia.org/wiki/File:Jc_portia_brutus.png
