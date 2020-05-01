@@ -81,7 +81,8 @@ According to Plutarch, Porcia said to Brutus:
 ![Portia, played by Deborah Kerr, and James Mason as Marcus Brutus, in the 1953 film Julius Caesar](https://en.wikipedia.org/wiki/Porcia_(wife_of_Brutus)#/media/File:Jc_portia_brutus.png "Portia, played by Deborah Kerr, and James Mason as Marcus Brutus, in the 1953 film Julius Caesar")
 
 ## Credits
-* Content paraphrased from [Porcia (wife of Brutus) Wikipedia page](https://en.wikipedia.org/wiki/Porcia_(wife_of_Brutus)).  
+* Content paraphrased from [Porcia (wife of Brutus) Wikipedia page](https://en.wikipedia.org/wiki/Porcia_(wife_of_Brutus)).
+* Quotes from [Daily stoic - page](https://dailystoic.com/stoic-women/)
 * Picture sourced from [Wikipedia](https://en.wikipedia.org/wiki/Porcia_(wife_of_Brutus)#/media/File:Jc_portia_brutus.png).  
 * Image courtesy [By sr:Public:PublicDomain - sr:wiki](https://upload.wikimedia.org/wikipedia/commons/7/72/Jc_portia_brutus.png)
 
