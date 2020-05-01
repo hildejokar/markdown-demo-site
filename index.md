@@ -18,7 +18,7 @@ Three ancient Stoic women are Porcia Catonis, Annia Cornificia Faustina Minor, a
 ---
 
 ## Table of contents
-- [Porcia-Catonis](#portia-catonis)
+- [Porcia Catonis](#portia-catonis)
 - [Plutarch's writings](#plutarch's-writings)
 - [Porcia in Life of Brutus](#porcia-in-life-of-Brutus)
   - [Courageus](#courageus)
